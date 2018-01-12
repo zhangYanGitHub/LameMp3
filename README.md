@@ -173,3 +173,5 @@
            D:/android/ndk-bundle/platforms/android-17/arch-x86/usr/lib\crtbegin_dynamic.o:crtbegin.c:function _start: error: undefined reference to 'main'
            clang.exe: error: linker command failed with exit code 1 (use -v to see invocation)
            ninja: build stopped: subcommand failed.
+* 解决方法
+        更新你的NDK 和Cmake工具

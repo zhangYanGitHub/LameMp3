@@ -6,9 +6,9 @@
 
 ### 最新版本
 
-模块|build-gradle|componentlib|router-anno-compiler|router-annotation
----|---|---|---|---
-最新版本|[![Download](https://api.bintray.com/packages/zhangyan000/compbuild/build-gradle/images/download.svg)](https://bintray.com/zhangyan000/compbuild/build-gradle/_latestVersion)|[![Download](https://api.bintray.com/packages/zhmqq0527/compbuild/componentlib/images/download.svg)](https://bintray.com/zhangyan000/compbuild/componentlib/_latestVersion)|[![Download](https://api.bintray.com/packages/zhangyan000/compbuild/router-anno-compiler/images/download.svg)](https://bintray.com/zhangyan000/compbuild/router-anno-compiler/_latestVersion)|[![Download](https://api.bintray.com/packages/zhangyan000/compbuild/router-annotation/images/download.svg)](https://bintray.com/zhangyan000/compbuild/router-annotation/_latestVersion)
+模块|build-gradle|
+---|---|
+最新版本|[![Download](https://api.bintray.com/packages/zhangyan000/maven/lamemp3/images/download.svg)](https://bintray.com/zhangyan000/maven/lamemp3/_latestVersion)|
 
 
   * 开源lame  版本 3.100

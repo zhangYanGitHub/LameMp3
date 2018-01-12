@@ -6,7 +6,7 @@
 
 ### 最新版本
 
-模块|build-gradle|
+模块|lamemp3|
 ---|---|
 最新版本|[![Download](https://api.bintray.com/packages/zhangyan000/maven/lamemp3/images/download.svg)](https://bintray.com/zhangyan000/maven/lamemp3/_latestVersion)|
 
